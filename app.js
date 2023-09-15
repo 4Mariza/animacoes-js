@@ -40,7 +40,7 @@ function criarGradiente(){
 }
 
 function transformar(){
-    forma8.classList.toggle('oco')
+    forma8.classList.toggle('pulsar')
 }
 
 function mudarTema(){
